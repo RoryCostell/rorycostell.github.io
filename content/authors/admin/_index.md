@@ -41,8 +41,8 @@ profiles:
 education:
   - area: PhD in Immunology 
     institution: University of Otago
-    date_start: July 2021
-    date_end: February 2025
+    date_start: 2021/07/01
+    date_end: 2025/02/28
     summary: |
       Thesis on the role of cancer-associated fibroblasts in the tumour immune response in colorectal cancer patients. 
       Supervised by Professor Roslyn Kemp (https://www.otago.ac.nz/microbiology-and-immunology).
@@ -52,8 +52,8 @@ education:
     
   - area: Masters of Clinical Immunology
     institution: Victoria University of Wellington, New Zealand
-    date_start: 'February 2020'
-    date_end: 'February 2021'
+    date_start: 2020/02/17
+    date_end: 2021/02/21
     summary: |
       Completed with distinction
 
@@ -65,8 +65,8 @@ education:
 
   - area: Bachelor of Science in Molecular Pathology and Human Genetics
     institution: Victoria University of Wellington
-    date_start: February 2017
-    date_end: June 2019
+    date_start: 2017/02/23
+    date_end: 2019/06/18
     summary: |
       Relevant papers 300-level include: Genes and Genomes, Immunology, Systems Pathology, Cellular Regulation
 
@@ -75,7 +75,7 @@ work:
     company_name: University of Otago, New Zealand
     company_url: 'https://www.otago.ac.nz/'
     company_logo: ''
-    date_start: 'March 2022'
+    date_start: 2022/03/01
     date_end: ''
     summary: |2-
               •	Assisting in lab setup and completion
@@ -93,8 +93,8 @@ work:
     company_name: University of Otago, New Zealand
     company_url: 'https://www.otago.ac.nz/'
     company_logo: ''
-    date_start: 'January 2023'
-    date_end: 'December 2023'
+    date_start: 2023/01/06
+    date_end: 2023/12/15
     summary: |2-
               •	Assisting in a human nutrition clinical trial: SOOTHE: Could mānuka honey soothe indigestion?
               •	Processing participant peripheral blood samples into a single-cell suspension
@@ -103,8 +103,8 @@ work:
     company_name: University of Otago, New Zealand
     company_url: 'https://www.otago.ac.nz/'
     company_logo: ''
-    date_start: 'March 2022'
-    date_end: 'June 2022'
+    date_start: 2022/03/01
+    date_end: 2022/06/01
     summary: |2-
               •	CELS191 – Cell and Molecular Biology tutor for Toroa College, a university hall of residence 
               •	Working with students to ensure success in coursework and examination
@@ -114,8 +114,8 @@ work:
     company_name: Victoria University of Wellington, New Zealand
     company_url: 'https://www.wgtn.ac.nz/'
     company_logo: ''
-    date_start: 'September 2020'
-    date_end: 'November 2020'
+    date_start: 2020/09/01
+    date_end: 2020/11/01
     summary: |2-
               •	Co-ordinating tutorial sessions online with students
               •	Ensuring Pasifika students achieve their personal academic goals and can complete coursework effectively in a friendly and intuitive environment
@@ -187,7 +187,7 @@ languages:
 awards:
   - title: Best Abstract Presentation at the Tumour and Stromal Special Interest Group Meeting, Australian and New Zealand Society for Immunology (ASI) [Runner-up]
     url: https://www.immunology.org.au/
-    date: 'December 2024'
+    date: 2024/12/08
     awarder: Australian and New Zealand Society for Immunology
     icon: coursera
     summary: |
